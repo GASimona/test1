@@ -1,0 +1,25 @@
+body {
+  background-color:tan;
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  font-size: 25px;
+}
+h1,h3 {
+  color: green;
+  font-family: cursive;
+}
+h2 {
+  text-decoration: underline;
+}
+h3 {
+  color: saddlebrown;
+  font-size: 35px;
+}
+span {
+  color: green;
+}
+#special{
+  color: brown;
+}
